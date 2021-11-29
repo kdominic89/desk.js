@@ -1,0 +1,31 @@
+{
+  "name": "@kdominic/desk",
+  "version": "1.0.0",
+  "description": "Javascript Window Management Framework",
+  "main": "dist/js/dkdesk.min.js",
+  "style": "dist/css/dkdesk.min.css",
+  "author": {
+      "name": "Dominic Kalkbrenner",
+      "email": "KDominic@gmx.de"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kdominic89/desk.js"
+  },
+  "bugs": {
+    "url": "https://github.com/kdominic89/desk.js/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "sass": "^1.43.5",
+    "sass-loader": "^12.3.0",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.2",
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1"
+  }
+}
